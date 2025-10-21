@@ -15,8 +15,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="opencv" width="40" height="40"/> </a> 
- <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/3d4f5e2c3b7f4b8b4a7f5a7b3c5d6e8f9a1b2c3d/icons/stm32.svg" alt="STM32" width="40" height="40"/> 
+ <a href="https://en.wikipedia.org/wiki/STM32" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="STM32 (C-based)" width="40" height="40"/> 
 </a>
   
 </p>
